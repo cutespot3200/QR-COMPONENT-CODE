@@ -17,8 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://)
-- Live Site URL: [Add live site URL here](http://127.0.0.1:5500/index.html)
+- Solution URL: https://github.com/cutespot3200/QR-COMPONENT-CODE
+- Live Site URL:http://127.0.0.1:5500/index.html
 
 
 ### Built with
